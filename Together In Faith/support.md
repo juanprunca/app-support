@@ -41,6 +41,6 @@ Since all data is stored locally on your device, uninstalling the app will perma
 
 If you have a question not covered above, or need further assistance, please reach out:
 
-**Email:** pro.app.contactus@gmail.com
+**Email:** pro.apps.contactus@gmail.com
 
 We aim to respond within 48 hours.
