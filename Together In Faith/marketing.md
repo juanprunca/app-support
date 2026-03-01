@@ -44,4 +44,4 @@ Together in Faith is available on the App Store for iPhone and iPad.
 
 ## Contact
 
-**Email:** pro.app.contactus@gmail.com
+**Email:** pro.apps.contactus@gmail.com
